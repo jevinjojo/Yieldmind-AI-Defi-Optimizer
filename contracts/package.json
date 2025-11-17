@@ -1,0 +1,40 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.5",
+    "@nomicfoundation/hardhat-ignition-viem": "^3.0.5",
+    "@nomicfoundation/hardhat-keystore": "^3.0.3",
+    "@nomicfoundation/hardhat-network-helpers": "^3.0.3",
+    "@nomicfoundation/hardhat-node-test-runner": "^3.0.7",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.1",
+    "@nomicfoundation/hardhat-verify": "^3.0.7",
+    "@nomicfoundation/hardhat-viem": "^3.0.1",
+    "@nomicfoundation/hardhat-viem-assertions": "^3.0.4",
+    "@openzeppelin/contracts": "^5.4.0",
+    "@types/node": "^22.19.1",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.0.15",
+    "typescript": "~5.8.0",
+    "viem": "^2.39.0"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@aave/periphery-v3": "^2.5.2",
+    "@uniswap/sdk-core": "^7.9.0",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "@uniswap/v3-sdk": "^3.26.0",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0"
+  }
+}
