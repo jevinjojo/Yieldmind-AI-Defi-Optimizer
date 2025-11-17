@@ -524,13 +524,9 @@ npx hardhat verify --network sepolia <contract_address>
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-## 🙏 **Acknowledgments**
+## **Acknowledgments**
 
 - **OpenAI** for GPT models and API
 - **CoinGecko** for comprehensive crypto market data
@@ -541,20 +537,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Support**
-
 ### **Getting Help**
 - 📖 Check this README for common issues
 - 🐛 [Open an issue](../../issues) for bugs
 - 💡 [Start a discussion](../../discussions) for questions
-- 📧 Contact: [your-email@example.com]
+- 📧 Contact: jevinjojo1@gmail.com
 
-### **Community**
-- 🐦 Twitter: [@your-twitter]
-- 💬 Discord: [Your Discord Server]
-- 📺 Demo Video: [YouTube Link]
 
----
 
 **⭐ Star this repo if you found it helpful!**
 
